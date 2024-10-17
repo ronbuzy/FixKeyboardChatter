@@ -1,0 +1,3 @@
+// resource.rc
+IDI_KEYBOARD ICON "keyboard.ico"
+IDI_APP_ICON ICON "keyboard.ico"
